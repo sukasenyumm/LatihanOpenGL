@@ -1,6 +1,9 @@
 # LatihanOpenGL
 Repository untuk berlatih OpenGL dari NOL.
 
+==Persiapan sebelum instalasi OpenGL==
+Pastikan sudah terinstal Visual Studio 2019 dengan C++ 
+Jika belum ada C++ bisa install via Visual Studio Installer, Modify
 
 ==Instalasi OpenGL dengan Visual Studio 2019==
 
