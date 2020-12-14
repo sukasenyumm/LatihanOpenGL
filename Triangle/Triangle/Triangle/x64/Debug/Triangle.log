@@ -1,2 +1,3 @@
 ﻿  Source.cpp
+D:\OpenGlTutorial\LatihanOpenGLGit\LatihanOpenGL\Triangle\Triangle\Triangle\Source.cpp(73,62): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
   Triangle.vcxproj -> D:\OpenGlTutorial\LatihanOpenGLGit\LatihanOpenGL\Triangle\Triangle\x64\Debug\Triangle.exe
